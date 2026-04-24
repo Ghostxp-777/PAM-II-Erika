@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458009744588",
+    "project_id": "cineetec-23868",
+    "storage_bucket": "cineetec-23868.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458009744588:android:2561d12499f7268abc9e69",
+        "android_client_info": {
+          "package_name": "com.example.projeto_banco_dados"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDvIKzbEN_B4vx73QzFnnbQHVK7sp1fPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
